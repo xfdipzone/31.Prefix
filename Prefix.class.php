@@ -72,10 +72,9 @@ class Prefix{ // class start
                 return $prefixs[$prefix];
             }
         }
-    
+
         return '';
     }
 
 } // class end
-
 ?>

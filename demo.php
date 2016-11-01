@@ -29,6 +29,6 @@ echo '3.还原为原始id'.PHP_EOL;
 echo Prefix::getId($prefix_user_id).PHP_EOL;
 echo Prefix::getId($prefix_order_id).PHP_EOL;
 echo Prefix::getId($prefix_message_id).PHP_EOL.PHP_EOL;
-
+ 
 echo '</pre>';
 ?>
